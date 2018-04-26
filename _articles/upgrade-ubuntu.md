@@ -5,10 +5,10 @@ description: >
   Get the newest version of Ubuntu on your System76 computer! Check out our upgrade directions.
 keywords:
   - Ubuntu 16.04
-  - Ubuntu 16.04.1
-  - Ubuntu 16.10
-  - Ubuntu 17.04
-  - Yakkety Yak
+  - Ubuntu 16.04.4
+  - Ubuntu 17.10
+  - Ubuntu 18.04
+  - Bionic Beaver
   - Xenial Xerus
   - Zesty Zapus
   - LTS
@@ -125,7 +125,7 @@ When prompted, choose **Install Ubuntu**.
 
 Next, check the box labeled **Download updates while installing Ubuntu** to bring your installation up to date.
 
-![Download Updates](/images/restore/updates.png)
+![Download Updates](/images/upgrade-ubuntu/updates.png)
 
 #### Complete The Upgrade
 
